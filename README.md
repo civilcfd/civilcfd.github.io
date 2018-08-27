@@ -1,19 +1,21 @@
-Civil-CFD allows civil engineering practioners to develop CFD models of water infrastructure projects using a purpose built, graphical solver.  The software allows the rendering of complex geometries into an orthogonal mesh that preserves irregularities by defining area and volume fractions at edges.  The fluid properties, boundary conditions, flow baffles, initial conditions, and simulation parameters are then defined in the graphical interface.  The simulation is performed in parallel and results can be visualized either using the graphical interface, or through the direct integration with [Paraview](https://www.paraview.org).
+Civil-CFD allows civil engineering practioners to develop CFD models of water infrastructure projects using a purpose built, graphical solver.  
 
 Key features of Civil-CFD include:
-* Meshing tool that takes STL files as input
+* Meshing tool that takes STL files as input to generate an orthogonal mesh
+* Capability to render a mesh with irregular geometry by defining area and volume fractions at edges
 * Solver with VOF algorithm for free surface flow, and k-E turbulence model
-* Parallel solver using PetSc and MPI
-* Graphical interface for rapid case development
+* Parallel solver using PetSc and MPI that can scale up to many processors for fast simulations
+* Graphical interface for rapid case development and simple visualization of results
+* Direct integration with [Paraview](https://www.paraview.org) for complex visualization
 
 Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-98809420) and is licensed under the GNU General Public License Version 3.0 
 
 ## Installation
 
-[Download](https://github.com/civilcfd/Civil-CFD/releases) the latest release of Civil-CFD.  The installation steps for Windows are as follows:
+[Download](https://github.com/civilcfd/Civil-CFD/releases) the latest release of Civil-CFD.  The "Civil-CFD-Win64.zip" file contains the latest 64-bit binary release for Windows.  The installation steps for Windows are as follows:
 
-1. First download and install [Paraview](https://www.paraview.org) to allow for integration
-2. Copy the release zip file to the install location and unzip the contents
+1. First download and install [Paraview](https://www.paraview.org) 
+2. Copy the "Civil-CFD-Win64.zip" file to the install location and unzip the contents
 3. Install the Microsoft Visual C++ redistributable by running the "vc_redist.x64.exe" file included 
 4. Install the Microsoft MPI runtime by running the "msmpisetup.exe" file included
 5. Run the Civil-CFD.exe file to open the graphical interface
