@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: Civil-CFD
+description: "Free-surface 3D CFD Solver for Civil Engineering Problems"
+authors: "Michael Celli"
