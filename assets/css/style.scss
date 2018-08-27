@@ -3,4 +3,7 @@
 
 @import "{{ site.theme }}";
 
-img.wrap {float: left}
+img.wrap {
+  float: left;
+  border: none
+}
