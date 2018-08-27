@@ -1,4 +1,3 @@
-![Civil-CFD Icon](icon.svg)
 Civil-CFD allows civil engineering practioners to develop CFD models of water infrastructure projects using a purpose built, graphical solver.  The software allows the rendering of complex geometries into an orthogonal mesh that preserves irregularities by defining area and volume fractions at edges.  The fluid properties, boundary conditions, flow baffles, initial conditions, and simulation parameters are then defined in the graphical interface.  The simulation is performed in parallel and results can be visualized either using the graphical interface, or through the direct integration with [Paraview](https://www.paraview.org).
 
 Key features of Civil-CFD include:
@@ -9,7 +8,7 @@ Key features of Civil-CFD include:
 
 Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-98809420) and is licensed under the GNU General Public License Version 3.0 
 
-## Getting Started
+## Installation
 
 [Download](https://github.com/civilcfd/Civil-CFD/releases) the latest release of Civil-CFD.  The installation steps for Windows are as follows:
 
@@ -20,6 +19,8 @@ Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-9880942
 * Run the Civil-CFD.exe file to open the graphical interface
 
 The software may also be built from source using CMake for either Linux or Windows.
+
+## Getting Started
 
 It is recommended that first time users open and run some of the example simulations to understand how to build cases.  Under the File menu, click the Open button to open a pre-existing case.  Civil-CFD stores cases as whole directories, so navigate to one of the example directories to open the associated case.  
 
