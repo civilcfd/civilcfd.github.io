@@ -12,11 +12,11 @@ Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-9880942
 
 [Download](https://github.com/civilcfd/Civil-CFD/releases) the latest release of Civil-CFD.  The installation steps for Windows are as follows:
 
-* First download and install [Paraview](https://www.paraview.org) to allow for integration
-* Copy the release zip file to the install location and unzip the contents
-* Install the Microsoft Visual C++ redistributable by running the "vc_redist.x64.exe" file included 
-* Install the Microsoft MPI runtime by running the "msmpisetup.exe" file included
-* Run the Civil-CFD.exe file to open the graphical interface
+1. First download and install [Paraview](https://www.paraview.org) to allow for integration
+2. Copy the release zip file to the install location and unzip the contents
+3. Install the Microsoft Visual C++ redistributable by running the "vc_redist.x64.exe" file included 
+4. Install the Microsoft MPI runtime by running the "msmpisetup.exe" file included
+5. Run the Civil-CFD.exe file to open the graphical interface
 
 The software may also be built from source using CMake for either Linux or Windows.
 
@@ -31,8 +31,9 @@ When working on a new case, the default simulation parameters generally do not n
 3. Render the mesh
 4. Define the boundary conditions
 5. Define the initial conditions
-6. Set the simulation end time and write interval
-7. Visualize the results
+6. Set the simulation end time, write interval and number of processors
+7. Run the simulation
+8. Visualize the results
 
 ## Requirements
 
