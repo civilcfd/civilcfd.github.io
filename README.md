@@ -1,5 +1,3 @@
-This is the repository for the Civil-CFD website.
-
 Civil-CFD is a free-surface 3D CFD Solver for Civil Engineering Problems
 
 Includes:
