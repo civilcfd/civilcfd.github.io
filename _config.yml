@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: Civil-CFD
+title: ![Civil-CFD Icon](icon.svg) Civil-CFD
 description: "Free-surface 3D CFD Solver for Civil Engineering Problems"
 authors: "Michael Celli"
