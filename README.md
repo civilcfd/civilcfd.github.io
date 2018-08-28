@@ -36,6 +36,12 @@ When working on a new case, the default simulation parameters generally do not n
 7. Run the simulation
 8. Visualize the results
 
+## Screenshot
+
+Civil-CFD in action showing a 2D visualization of the Pipe Junction example:
+
+![Screenshot](Screenshot.png)
+
 ## Requirements
 
 Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or higher is supported.  Minimum RAM to run the software is 4 GB, but 16 GB is recommended and required for the included "Pump Station" example.  3D graphics capability is required and most hardware is supported (integrated Intel HD graphics, AMD, or NVidia).
