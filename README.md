@@ -46,13 +46,13 @@ Free Surface CFD Solver for Civil Engineering Problems
 Copyright (c) 2018 by [Michael Celli](http://linkedin.com/in/michael-c-98809420)
 Released under the GNU GPL v. 3.0 
 
-* VTK is Copyright (c) 1993-2016 Ken Martin, Will Schroeder, Bill Lorensen
-* The Qt GUI Toolkit is Copyright (c) 2016 The Qt Company Ltd.
-* Qhull is Copyright (c) 1993-2016 C.B. Barber and the The Geometry Centre
-* QCustomPlot is Copyright (c) 2016 Emanuel Eichhammer
-* libxml2 is Copyright (c) 1998-2016 by Daniel Veillard
-* zlib is Copyright (c) 1995-2016 by Jean-loup Gailly and Mark Adler
-* PETSc is Copyright (c) 1991-2014, UChicago Argonne, LLC and the [PETSc Development Team](http://www.mcs.anl.gov/petsc/miscellaneous/index.html)
+* VTK is Copyright (c) 1993-2018 Ken Martin, Will Schroeder, Bill Lorensen
+* The Qt GUI Toolkit is Copyright (c) 2018 The Qt Company Ltd.
+* Qhull is Copyright (c) 1993-2018 C.B. Barber and the The Geometry Centre
+* QCustomPlot is Copyright (c) 2018 Emanuel Eichhammer
+* libxml2 is Copyright (c) 1998-2018 by Daniel Veillard
+* zlib is Copyright (c) 1995-2018 by Jean-loup Gailly and Mark Adler
+* PETSc is Copyright (c) 1991-2018, UChicago Argonne, LLC and the [PETSc Development Team](http://www.mcs.anl.gov/petsc/miscellaneous/index.html)
 
 The author(s) of Civil CFD provide the program 'as is' without warranty of any kind, expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. In no event shall the author(s) of Civil CFD be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the posibility of such damage.  
 
