@@ -52,18 +52,6 @@
          offset="0"
          id="stop6977" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5412">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5408" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop5410" />
-    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="-110.25053 : 88.044232 : 1"
@@ -120,17 +108,6 @@
          operator="atop"
          result="result9" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5412"
-       id="radialGradient5416"
-       cx="19.278957"
-       cy="20.1411"
-       fx="19.278957"
-       fy="20.1411"
-       r="17.307184"
-       gradientTransform="matrix(1,0,0,1.0207794,0,-0.41851909)"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -175,14 +152,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#212121"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.8994948"
-     inkscape:cx="11.880356"
-     inkscape:cy="23.482911"
+     inkscape:zoom="11.025611"
+     inkscape:cx="25.399299"
+     inkscape:cy="23.299628"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -210,7 +187,7 @@
      inkscape:groupmode="layer">
     <g
        sodipodi:type="inkscape:box3d"
-       style="fill:url(#radialGradient5416);stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;fill-rule:nonzero"
+       style="fill:#212121;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963;fill-rule:nonzero;"
        id="g3023"
        inkscape:perspectiveID="#perspective2993"
        inkscape:corner0="1.4285005 : 0.075449793 : 0 : 1"
@@ -218,42 +195,42 @@
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3033"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="13"
          d="M 4.5442127,27.393954 19.44243,36.146174 34.000617,27.483571 18.976684,20.450468 Z"
          points="19.44243,36.146174 34.000617,27.483571 18.976684,20.450468 4.5442127,27.393954 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3025"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="6"
          d="M 4.5442127,9.0535084 V 27.393954 L 18.976684,20.450468 V 3.8218418 Z"
          points="4.5442127,27.393954 18.976684,20.450468 18.976684,3.8218418 4.5442127,9.0535084 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3035"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="11"
          d="M 18.976684,3.8218418 34.000617,8.9217039 V 27.483571 L 18.976684,20.450468 Z"
          points="34.000617,8.9217039 34.000617,27.483571 18.976684,20.450468 18.976684,3.8218418 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3027"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="5"
          d="M 4.5442127,9.0535084 19.44243,15.42548 34.000617,8.9217039 18.976684,3.8218418 Z"
          points="19.44243,15.42548 34.000617,8.9217039 18.976684,3.8218418 4.5442127,9.0535084 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3031"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="14"
          d="M 19.44243,15.42548 V 36.146174 L 34.000617,27.483571 V 8.9217039 Z"
          points="19.44243,36.146174 34.000617,27.483571 34.000617,8.9217039 19.44243,15.42548 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3029"
-         style="fill:url(#radialGradient5416);fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:#212121;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.54901963"
          inkscape:box3dsidetype="3"
          d="M 4.5442127,9.0535084 19.44243,15.42548 V 36.146174 L 4.5442127,27.393954 Z"
          points="19.44243,15.42548 19.44243,36.146174 4.5442127,27.393954 4.5442127,9.0535084 " />
@@ -286,16 +263,16 @@
       </g>
     </g>
     <g
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#212121;stroke-opacity:0"
        clip-path="url(#clipPath5530)"
        id="g7075">
       <g
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#212121;stroke-opacity:0"
          id="g7073"
          inkscape:label="Clip">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99961919;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5496)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#212121;stroke-width:0.99961919;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter5496)"
            x="23.999998"
            y="40.857143"
            id="text7071"
@@ -304,7 +281,7 @@
              id="tspan7069"
              x="23.999998"
              y="40.857143"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00000191px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99961919;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">C</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00000191px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#212121;stroke-width:0.99961919;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0">C</tspan></text>
       </g>
     </g>
   </g>
