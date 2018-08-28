@@ -1,4 +1,4 @@
-Civil-CFD allows civil engineering practioners to develop CFD models of water infrastructure projects using a purpose built, graphical solver.  
+Civil-CFD allows civil engineering practioners to develop computational fluid dynamics (CFD) models of water infrastructure projects using a purpose built, graphical solver.  
 
 Key features of Civil-CFD include:
 * Meshing tool that takes STL files as input to generate an orthogonal mesh that preserves complex geometries
@@ -7,7 +7,7 @@ Key features of Civil-CFD include:
 * Graphical interface for rapid case development and simple visualization of results
 * Direct integration with [Paraview](https://www.paraview.org) for complex visualization
 
-Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-98809420) and is licensed under the GNU General Public License Version 3.0 
+Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-c-98809420) and is Free Software licensed under the GNU General Public License Version 3.0 
 
 ## Installation
 
