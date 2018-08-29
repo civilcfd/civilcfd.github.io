@@ -44,7 +44,7 @@ Civil-CFD in action showing a visualization of a section cut from the included P
 
 ## Requirements
 
-Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or higher is supported.  Minimum RAM to run the software is 4 GB, but 16 GB is recommended and required for the included "Pump Station" example.  3D graphics capability is required and most hardware is supported (integrated Intel HD graphics, AMD, or NVidia).  OpenGL version 3.2 or higher is recommended for the software to work without issues displaying the 3D enabled tabs (Mesh, Geometry, Boundaries, Baffles, etc.)
+Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or higher is supported.  Minimum RAM to run the software is 4 GB, but 16 GB is recommended and required for the included "Pump Station" example.  3D graphics capability is required and most hardware is supported (integrated Intel HD graphics, AMD, or NVidia).  OpenGL version 3.2 or higher is required for the software to work without issues displaying the 3D enabled tabs (Mesh, Geometry, Boundaries, Baffles, etc.)
 
 ## License and Disclaimer
 
