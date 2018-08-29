@@ -13,11 +13,11 @@ Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-celli-988
 
 [Download](https://github.com/civilcfd/Civil-CFD/releases) the latest release of Civil-CFD.  The "[Civil-CFD-Win64.zip](https://github.com/civilcfd/Civil-CFD/releases/download/v0.1/Civil-CFD-Win64.zip)" file contains the latest 64-bit binary release for Windows.  The installation steps for Windows are as follows:
 
-1. First download and install [Paraview](https://www.paraview.org) 
-2. Copy the "[Civil-CFD-Win64.zip](https://github.com/civilcfd/Civil-CFD/releases/download/v0.1/Civil-CFD-Win64.zip)" file to the install location and unzip the contents
-3. Install the Microsoft Visual C++ redistributable by running the "vc_redist.x64.exe" file included 
-4. Install the Microsoft MPI runtime by running the "msmpisetup.exe" file included
-5. Run the Civil-CFD.exe file to open the graphical interface
+1. First download and install [Paraview](https://www.paraview.org).
+2. Copy the "[Civil-CFD-Win64.zip](https://github.com/civilcfd/Civil-CFD/releases/download/v0.1/Civil-CFD-Win64.zip)" file to the install location and unzip the contents.  The installation path must have no spaces (e.g. C:\Civil-CFD will work).  This wil be fixed in the next release.
+3. Install the Microsoft Visual C++ redistributable by running the "vc_redist.x64.exe" file included. 
+4. Install the Microsoft MPI runtime by running the "msmpisetup.exe" file included.
+5. Run the Civil-CFD.exe file to open the graphical interface.
 
 The software may also be built from source using CMake for either Linux or Windows.
 
