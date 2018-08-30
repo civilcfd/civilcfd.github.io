@@ -23,7 +23,7 @@ The software may also be built from source using CMake for either Linux or Windo
 
 ## Getting Started
 
-It is recommended that first time users open and run some of the example simulations to understand how to build cases.  Under the File menu, click the Open button to open a pre-existing case.  Civil-CFD stores cases as whole directories, so navigate to one of the example directories to open the associated case.  
+It is recommended that first time users open and run some of the example simulations to understand how to build cases.  Under the File menu, click the Open button to open a pre-existing case.  Civil-CFD stores cases as whole directories, so navigate to one of the example directories to open the associated case.  The example cases are ready to simulate as provided, and he meshing is already complete.  Note that the Pump Station example requires 12 GB installed RAM to run, whereas the Bump and Pipe Junction examples only require 4 GB installed.
 
 When working on a new case, the default simulation parameters generally do not need to be changed.  The steps for creating a new simulation include:
 
@@ -44,7 +44,7 @@ Civil-CFD in action showing a visualization of a section cut from the included P
 
 ## Requirements
 
-Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or higher is supported.  Minimum RAM to run the software is 4 GB, but 16 GB is recommended and required for the included "Pump Station" example.  3D graphics capability is required and most hardware is supported (integrated Intel HD graphics, AMD, or NVidia).  OpenGL version 3.2 or higher is required for the software to work without issues displaying the 3D enabled tabs (Mesh, Geometry, Boundaries, Baffles, etc.)
+Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or higher is supported.  Minimum RAM to run the software is 4 GB, but 12 GB is recommended and required for the included "Pump Station" example.  3D graphics capability is required and most hardware is supported (integrated Intel HD graphics, AMD, or NVidia).  OpenGL version 3.2 or higher is required for the software to work without issues displaying the 3D enabled tabs (Mesh, Geometry, Boundaries, Baffles, etc.)
 
 ## License and Disclaimer
 
