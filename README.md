@@ -23,7 +23,7 @@ The software may also be built from source using CMake for either Linux or Windo
 
 ## Getting Started
 
-It is recommended that first time users open and run some of the example simulations to understand how to build cases.  Under the File menu, click the Open button to open a pre-existing case.  Civil-CFD stores cases as whole directories, so navigate to one of the example directories to open the associated case.  The example cases are ready to simulate as provided, and he meshing is already complete.  Note that the Pump Station example requires 12 GB installed RAM to run, whereas the Bump and Pipe Junction examples only require 4 GB installed.
+It is recommended that first time users open and run some of the example simulations to understand how to build cases.  Under the File menu, click the Open button to open a pre-existing case.  Civil-CFD stores cases as whole directories, so navigate to one of the example directories to open the associated case.  The example cases are ready to simulate as provided.  Note the Pump Station example requires 12 GB installed RAM to run, whereas the Bump and Pipe Junction examples only require 4 GB installed.
 
 When working on a new case, the default simulation parameters generally do not need to be changed.  The steps for creating a new simulation include:
 
