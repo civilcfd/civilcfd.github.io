@@ -7,7 +7,7 @@ Key features of Civil-CFD include:
 * Graphical interface for rapid case development and simple visualization of results
 * Direct integration with [Paraview](https://www.paraview.org) for complex visualization
 
-Civil-CFD is written by [Michael Celli](http://linkedin.com/in/michael-celli-98809420) and is Free Software licensed under the GNU General Public License Version 3.0 
+Civil-CFD is written by [Michael Celli](www.linkedin.com/in/michael-celli-civil-engineer) and is Free Software licensed under the GNU General Public License Version 3.0 
 
 ## Installation
 
@@ -52,7 +52,7 @@ Civil-CFD requires a 64-bit Linux or Windows installation.  Windows version 7 or
 
 Civil-CFD
 Free Surface CFD Solver for Civil Engineering Problems
-Copyright (c) 2018 by [Michael Celli](http://linkedin.com/in/michael-celli-98809420)
+Copyright (c) 2018 by [Michael Celli](www.linkedin.com/in/michael-celli-civil-engineer)
 Released under the GNU GPL v. 3.0 
 
 * VTK is Copyright (c) 1993-2018 Ken Martin, Will Schroeder, Bill Lorensen
