@@ -1,7 +1,7 @@
 Civil-CFD allows civil engineering practioners to develop computational fluid dynamics (CFD) models of water infrastructure projects using a purpose built graphical solver.  
 
 Key features of Civil-CFD include:
-* Meshing tool that takes STL files as input to generate a 3D orthogonal mesh that preserves complex geometries
+* Meshing tool that takes ASCII STL files as input to generate a 3D orthogonal mesh that preserves complex geometries
 * Solver with VOF algorithm for free surface flow, and k-E turbulence model
 * Parallel solver using PetSc and MPI that can scale up to many processors for fast simulations
 * Graphical interface for rapid case development and simple visualization of results
@@ -30,7 +30,7 @@ The example cases are ready to simulate as provided.  To run a simulation, click
 When working on a new case, the default simulation parameters generally do not need to be changed.  The steps for creating a new simulation include:
 
 1. Set the mesh properties including the size, number of cells, and origin
-2. Load the geometry definition file (in STL format)
+2. Load the geometry definition file (in ASCII STL format - binary STL must be converted first)
 3. Render the mesh
 4. Define the boundary conditions
 5. Define the initial conditions
