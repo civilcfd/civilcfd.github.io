@@ -39,7 +39,7 @@ When working on a new case, the default simulation parameters generally do not n
 8. Run the simulation
 9. Visualize the results
 
-Each of above steps are performed using the tabs in the graphical interface in order from left to right.
+Each of the above steps are performed using the tabs in the graphical interface in order from left to right.
 
 ## Screenshot
 
