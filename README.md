@@ -29,14 +29,17 @@ The example cases are ready to simulate as provided.  To run a simulation, click
 
 When working on a new case, the default simulation parameters generally do not need to be changed.  The steps for creating a new simulation include:
 
-1. Set the mesh properties including the size, number of cells, and origin
-2. Load the geometry definition file (in ASCII STL format - binary STL must be converted first)
-3. Render the mesh
-4. Define the boundary conditions
-5. Define the initial conditions
-6. Set the simulation end time, write interval and number of processors
-7. Run the simulation
-8. Visualize the results
+1. Define fluid properties and activate turbulence model if applicable 
+2. Set the mesh properties including the size, number of cells, and origin
+3. Load the geometry definition file (in ASCII STL format - binary STL must be converted first)
+4. Render the mesh
+5. Define the boundary conditions
+6. Define the initial conditions
+7. Set the simulation end time, write interval and number of processors
+8. Run the simulation
+9. Visualize the results
+
+Each of above steps are performed using the tabs in the graphical interface in order from left to right.
 
 ## Screenshot
 
